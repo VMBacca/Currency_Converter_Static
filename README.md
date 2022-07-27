@@ -1,7 +1,7 @@
 # Currency_Converter_Static
 
 <img src="![wpf](https://user-images.githubusercontent.com/102605061/181293097-2ca28068-be38-4d89-8464-68106093934c.jpg)
-" width="50%" height="50%">
+">
 
 ## Objective:
 
