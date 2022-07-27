@@ -1,7 +1,8 @@
 # Currency_Converter_Static
 
-<img src="![wpf](https://user-images.githubusercontent.com/102605061/181293097-2ca28068-be38-4d89-8464-68106093934c.jpg)
-">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/102605061/181294720-51f1b6d7-b406-4304-a8fe-0da8ae6293b3.jpg" width="75%" height="75%">
+</div>
 
 ## Objective:
 
@@ -11,5 +12,5 @@ Simple Currency Converter, created to learn the commands and aspects of C#/WPF p
 
 * **C#**
 * **WPF**
-* **WPF UI** https://github.com/lepoco/wpfui
+* **WPF UI** - https://github.com/lepoco/wpfui
 
